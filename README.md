@@ -10,3 +10,4 @@ Best when you go through books full of unfamiliar words.
 
 # Prerequisite
 Prepare txt or pdf files that you want to extract words from.
+Runs on python3.
