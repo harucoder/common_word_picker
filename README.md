@@ -9,5 +9,5 @@ Best when you go through books full of unfamiliar words.
 3. Pick up the common words between 1 and 2, and put them out into a new text file. 
 
 # Prerequisite
-Prepare txt or pdf files that you want to extract words from.
+Prepare txt or pdf files that you want to extract words from.<br>
 Runs on python3.
